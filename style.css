@@ -46,3 +46,11 @@ p{
   font-size: 14px;
   font-weight: bold;
 }
+
+@media screen and (max-width: 705px) {
+  .contenedor {
+    margin-top: 60px;
+    margin-left: auto;
+    width: 100%;
+  }
+}
